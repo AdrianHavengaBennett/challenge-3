@@ -1,0 +1,10 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%; /*note that height is required in here also*/
+}
+
+section {
+    height: 100%; /*note that height is required in here also*/
+    background-color: blue;
+}
